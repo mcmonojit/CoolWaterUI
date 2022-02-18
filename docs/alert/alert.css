@@ -1,7 +1,6 @@
 
 @import url(../docs.css);
 @import url(/css/allcomponent.css);
-/* @import url(/styles.css); */
 
 .comp-container-width1{
     max-width: 35rem;

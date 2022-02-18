@@ -7,6 +7,7 @@
     --infofont: #0c4a6e;
     --success: #ecfccb;
     --successfont: #365314;
+    --lightOrange: #fdba74;
 }
 
 .alert{
@@ -55,11 +56,6 @@
     right: 0;
 }
 
-/* .btn-right{
-    display: flex;
-    justify-content: space-between;
-} */
-
 .alertClose{
     padding: 0.75rem 0.5rem 0.75rem 2.5rem;
     border-radius: 0.35rem;
@@ -70,7 +66,6 @@
 
 .alertClose h4{
     margin: 0;
-    /* display: inline; */
 }
 
 .alertClose p{
@@ -79,7 +74,7 @@
 }
 
 .close-btn:hover{
-    background-color: #fdba74;
+    background-color: var(--lightOrange);
     cursor: pointer;
 }
 
