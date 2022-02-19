@@ -98,6 +98,10 @@ h1,h3{
     color: var(--offWhite);
 }
 
+.link-active {
+    color: white;
+}
+
 .main-and-footer-container{
     background-color: var(--offWhite);
     height: 100vh;
@@ -114,6 +118,23 @@ h1,h3{
     border: 0.25px solid var(--gray);
     border-radius: 0.75rem;
     padding: 2.5rem;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.flex-space-evenly{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.margin-r-2rem{
+    margin-right: 2rem;
 }
 
 .footer{
