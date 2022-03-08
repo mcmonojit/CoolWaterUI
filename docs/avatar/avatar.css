@@ -2,9 +2,9 @@
 @import url(/css/allcomponent.css);
 
 .comp-container-width1{
-    max-width: 35rem;
+    /* max-width: 35rem; */
 }
 
 .code-snip-width{
-    max-width: 52rem;
+    /* max-width: 52rem; */
 }
