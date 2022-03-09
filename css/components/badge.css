@@ -12,7 +12,7 @@
 }
 
 .badge{
-    background-color: #365314;
+    background-color: var(--onlineGreen);
     border-radius: 50%;
     border: 2px solid var(--white);
     position: absolute;
