@@ -32,7 +32,7 @@
     background-color: var(--lightWaterBlue);
 }
 
-.btn-black{
+.btn-dark{
     color: var(--white);
     background-color: var(--darkBlack);
 }  
