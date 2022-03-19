@@ -33,4 +33,8 @@
     --darkBlack: #000;
     --lightWaterBlue: #194975;
     --lightShadeOfGrey: #e5e5e5;
+
+    --checkSuccess: #16a34a;
+    --checkWarning: #d97706;
+    --checkError:#ef4444;
 }
