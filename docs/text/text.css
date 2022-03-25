@@ -1,0 +1,6 @@
+@import url(../docs.css);
+@import url(/css/allcomponent.css);
+
+.component-container{
+    flex-direction: column;
+}
